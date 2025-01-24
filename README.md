@@ -40,13 +40,6 @@ SQL Queries
 ## SQL Queries
 Below are the main queries used to analyze the dataset:
 
-## 1. Count the Number of Movies vs TV Shows.
-'''sql
-CREATE DATABASE Netflix
-USE Netflix
-SELECT * FROM netflix_project
-
-SELECT COUNT (*) AS total_content FROM netflix_project
 
 SELECT DISTINCT type FROM netflix_project
 SELECT type, COUNT (*) AS total_content FROM netflix_project GROUP BY type 
