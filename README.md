@@ -37,8 +37,3 @@ Date Added
 
 SQL Queries
 
-## SQL Queries
-Below are the main queries used to analyze the dataset:
-
-![sql](https://github.com/maneeshmm/Netflix_SQL_Project/blob/main/Netflix%20Project.sql)
-
