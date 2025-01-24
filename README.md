@@ -40,9 +40,5 @@ SQL Queries
 ## SQL Queries
 Below are the main queries used to analyze the dataset:
 
-
-SELECT DISTINCT type FROM netflix_project
-SELECT type, COUNT (*) AS total_content FROM netflix_project GROUP BY type 
-'''sql
-
+![sql](https://github.com/maneeshmm/Netflix_SQL_Project/blob/main/Netflix%20Project.sql)
 
