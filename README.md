@@ -36,4 +36,6 @@ Description
 Date Added
 
 SQL Queries
+## Business Problems and Solutions
+You can view the full project on [Netflix SQL Analysis](https://github.com/maneeshmm/Netflix_SQL_Project/blob/main/Netflix%20Project.sql)
 
